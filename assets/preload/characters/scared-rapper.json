@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "scared-idle"
+		},
+		{
+			"offsets": [
+				-225,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "scared-left"
+		},
+		{
+			"offsets": [
+				-221,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scared-up"
+		},
+		{
+			"offsets": [
+				-223,
+				-44
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "scared-down"
+		},
+		{
+			"offsets": [
+				-221,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "scared-right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/damngoback",
+	"position": [
+		-90,
+		60
+	],
+	"healthicon": "mistletoe",
+	"flip_x": true,
+	"healthbar_colors": [
+		139,
+		19,
+		13
+	],
+	"camera_position": [
+		-90,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

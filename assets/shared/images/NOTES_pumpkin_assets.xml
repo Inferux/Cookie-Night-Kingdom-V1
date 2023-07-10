@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTES_pumpkin_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="160" height="160"/>
+	<SubTexture name="blue hold end0000" x="160" y="0" width="50" height="63"/>
+	<SubTexture name="blue hold piece0000" x="210" y="0" width="50" height="44"/>
+	<SubTexture name="blueee0000" x="260" y="0" width="129" height="134"/>
+	<SubTexture name="down confirm0000" x="389" y="0" width="338" height="339"/>
+	<SubTexture name="down confirm0001" x="727" y="0" width="338" height="339"/>
+	<SubTexture name="down confirm0002" x="1065" y="0" width="338" height="339"/>
+	<SubTexture name="down confirm0003" x="1403" y="0" width="338" height="339"/>
+	<SubTexture name="green0000" x="0" y="0" width="160" height="160"/>
+	<SubTexture name="green hold end0000" x="160" y="0" width="50" height="63"/>
+	<SubTexture name="green hold piece0000" x="210" y="0" width="50" height="44"/>
+	<SubTexture name="greennn0000" x="1741" y="0" width="129" height="134"/>
+	<SubTexture name="left confirm0000" x="0" y="339" width="293" height="300"/>
+	<SubTexture name="left confirm0001" x="293" y="339" width="293" height="300"/>
+	<SubTexture name="left confirm0002" x="586" y="339" width="293" height="300"/>
+	<SubTexture name="left confirm0003" x="879" y="339" width="293" height="300"/>
+	<SubTexture name="pruiple0000" x="260" y="0" width="129" height="134"/>
+	<SubTexture name="pruple end hold0000" x="160" y="0" width="50" height="63"/>
+	<SubTexture name="purple0000" x="1172" y="339" width="159" height="160"/>
+	<SubTexture name="purple hold piece0000" x="1331" y="339" width="50" height="44"/>
+	<SubTexture name="red0000" x="1381" y="339" width="160" height="159"/>
+	<SubTexture name="red hold end0000" x="160" y="0" width="50" height="63"/>
+	<SubTexture name="red hold piece0000" x="1541" y="339" width="50" height="44"/>
+	<SubTexture name="reddd0000" x="1741" y="0" width="129" height="134"/>
+	<SubTexture name="right confirm0000" x="1591" y="339" width="307" height="315"/>
+	<SubTexture name="right confirm0001" x="0" y="654" width="307" height="315"/>
+	<SubTexture name="right confirm0002" x="307" y="654" width="307" height="315"/>
+	<SubTexture name="right confirm0003" x="614" y="654" width="307" height="315"/>
+	<SubTexture name="up confirm0000" x="921" y="654" width="337" height="318"/>
+	<SubTexture name="up confirm0001" x="1258" y="654" width="337" height="318"/>
+	<SubTexture name="up confirm0002" x="1595" y="654" width="337" height="318"/>
+	<SubTexture name="up confirm0003" x="0" y="972" width="337" height="318"/>
+</TextureAtlas>

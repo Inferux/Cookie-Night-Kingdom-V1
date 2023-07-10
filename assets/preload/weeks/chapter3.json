@@ -1,0 +1,59 @@
+{
+	"storyName": "1transboigardener1couple",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chapter3",
+	"weekBefore": "chapter2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Vivacious",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"warmful",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"obnoxious",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"neophyte",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "chapter 3"
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTES_pumpkinSplashes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash diamond blue 10000" x="0" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond blue 10001" x="382" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond blue 10002" x="764" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond blue 10003" x="1146" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond blue 20000" x="1528" y="0" width="382" height="305"/>
+	<SubTexture name="note splash diamond blue 20001" x="0" y="305" width="382" height="305"/>
+	<SubTexture name="note splash diamond blue 20002" x="382" y="305" width="382" height="305"/>
+	<SubTexture name="note splash diamond blue 20003" x="764" y="305" width="382" height="305"/>
+	<SubTexture name="note splash diamond green 10000" x="0" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 10001" x="382" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 10002" x="764" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 10003" x="1146" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 20000" x="1146" y="305" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 20001" x="1528" y="305" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 20002" x="0" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond green 20003" x="382" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 10000" x="0" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 10001" x="382" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 10002" x="764" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 10003" x="1146" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 20000" x="764" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 20001" x="1146" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 20002" x="1528" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond purple 20003" x="0" y="914" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 10000" x="0" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 10001" x="382" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 10002" x="764" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 10003" x="1146" y="0" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 20000" x="1146" y="305" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 20001" x="1528" y="305" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 20002" x="0" y="610" width="382" height="304"/>
+	<SubTexture name="note splash diamond red 20003" x="382" y="610" width="382" height="304"/>
+</TextureAtlas>

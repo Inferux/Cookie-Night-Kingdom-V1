@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				35
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf-left"
+		},
+		{
+			"offsets": [
+				46,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-down"
+		},
+		{
+			"offsets": [
+				74,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-up"
+		},
+		{
+			"offsets": [
+				19,
+				176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				189
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss-abajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				193
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss-arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				188
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss-izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				191
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss-derecha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-toothpaste-week3-sun",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-toothpaste",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		115,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

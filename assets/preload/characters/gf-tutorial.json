@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1138,
+				248
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1125,
+				246
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1103,
+				252
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1130,
+				239
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1133,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "girl"
+		},
+		{
+			"offsets": [
+				1126,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blush",
+			"indices": [],
+			"name": "blush"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-tutorial",
+	"position": [
+		-100,
+		60
+	],
+	"healthicon": "mistletoe",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		7
+	],
+	"camera_position": [
+		-1140,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

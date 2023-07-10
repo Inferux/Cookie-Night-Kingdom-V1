@@ -1,0 +1,59 @@
+{
+	"storyName": "Devil cookie's little problem",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chapter1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Inconvenient",
+			"devil-cookie",
+			[
+				206,
+				60,
+				35
+			]
+		],
+		[
+			"makeshift",
+			"devil-cookie",
+			[
+				206,
+				40,
+				20
+			]
+		],
+		[
+			"overpowered",
+			"overpowered",
+			[
+				86,
+				0,
+				20
+			]
+		],
+		[
+			"ignota tristitia",
+			"angel",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Chapter 1"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "lesbian cookies with weapons",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chapter2",
+	"weekBefore": "chapter1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sheriff",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"wanted",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tim wokeu",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "chapter 2"
+}

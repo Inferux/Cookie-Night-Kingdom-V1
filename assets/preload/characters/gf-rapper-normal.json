@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-150,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-127,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-152,
+				-62
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-148,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sexy-grillfried",
+	"position": [
+		-90,
+		60
+	],
+	"healthicon": "mistletoe",
+	"flip_x": true,
+	"healthbar_colors": [
+		139,
+		19,
+		13
+	],
+	"camera_position": [
+		-90,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
